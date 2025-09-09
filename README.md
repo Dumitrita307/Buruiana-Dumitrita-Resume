@@ -6,4 +6,6 @@ Complex Educațional „Hulboaca”
 
 ## Hobby
 
-Sa citesc
+Să citesc
+
+## Informații Personale

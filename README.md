@@ -19,8 +19,7 @@
 
 ## 📚 Hobby-uri
 
-- 📖 Să citesc cărți de ficțiune și dezvoltare personală  
-- ✍️ Scris creativ și eseuri  
+- 📖 Să citesc cărți de ficțiune și dezvoltare personală   
 - 🌿 Petrecerea timpului în natură
 
 ---

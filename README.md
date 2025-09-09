@@ -3,3 +3,7 @@
 Burian Dumitrita
 
 Complex Educațional „Hulboaca”
+
+## Hobby
+
+Sa citesc

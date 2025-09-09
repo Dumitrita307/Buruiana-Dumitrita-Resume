@@ -9,3 +9,7 @@ Complex Educațional „Hulboaca”
 Să citesc
 
 ## Informații Personale
+Buruiana Dumitrița Dumitru
+28.09.2008
+Comuna Grătiești. sat Hulboaca.
+

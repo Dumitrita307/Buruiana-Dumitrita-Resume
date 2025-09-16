@@ -24,9 +24,9 @@
 
 ---
 
-## 🖼️ Poze (dacă vrei să adaugi)
+## 🖼️ Poze 
 
 > Pentru a adăuga o poză, folosește codul:
 
 ```markdown
-![Descrierea pozei](calea/catre/poza.jpg)
+ rtr.jpg

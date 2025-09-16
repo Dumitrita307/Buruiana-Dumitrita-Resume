@@ -1,6 +1,6 @@
 # 📄 Buruiana-Dumitrita-Resume
 
-**Burian Dumitrița**  
+**Buruiana Dumitrița**  
 📍 Complex Educațional „Hulboaca”  
 🎓 Elevă, pasionată de lectură și dezvoltare personală
 

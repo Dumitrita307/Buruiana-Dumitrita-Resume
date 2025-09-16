@@ -22,6 +22,7 @@
 - 📖 Să citesc cărți de ficțiune și dezvoltare personală   
 - 🌿 Petrecerea timpului în natură
 -   Să povestesc
+-   Să navighez pe internet 
 ---
 
 ## 🖼️ Poze (dacă vrei să adaugi)
